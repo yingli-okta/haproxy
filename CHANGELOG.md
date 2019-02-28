@@ -5,6 +5,9 @@ This file is used to list changes made in each version of the haproxy cookbook.
 ## [unreleased]
 
 - Move resource documentation to dedicated folder with md per resource
+- Systemd unit configured and working
+- Add apt-update for debian platforms
+- Move system command to a helper
 
 ## [v6.3.0](2019-02-18)
 
